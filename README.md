@@ -1,2 +1,1 @@
-# Hot-Near-Auto-Clicker
-Hot-Near-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
